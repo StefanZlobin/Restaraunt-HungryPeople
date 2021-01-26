@@ -1,1 +1,1 @@
-# Restaraunt-Hungry-People-
+# Restaraunt HungryPeople
